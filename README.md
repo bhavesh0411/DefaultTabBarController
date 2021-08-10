@@ -1,4 +1,4 @@
-# sorta_learning_series (Learning 2- DefaultTabBarController)
+# sorta_learning_series (Learning 3- DefaultTabBarController)
 
 A project based on learning differnt concept of flutter.
 
